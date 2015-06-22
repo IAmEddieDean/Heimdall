@@ -1,0 +1,22 @@
+{
+  "name": "pages",
+  "version": "0.0.1",
+  "homepage": "https://github.com/IAmEddieDean/IAmEddieDean.github.io",
+  "authors": [
+    "Chris Oyler <christopher.oyler@gmail.com>"
+  ],
+  "description": "pages example",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "bootstrap": "~3.3.5"
+  }
+}
