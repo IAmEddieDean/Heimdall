@@ -1,4 +1,5 @@
 # Heimdall
+## Because Norse Gods were cool.
 
 ### A lightweight template for all your Angular.js needs.
 ![Packagist](https://img.shields.io/badge/Angular-1.4.1-red.svg?style=flat-square)
